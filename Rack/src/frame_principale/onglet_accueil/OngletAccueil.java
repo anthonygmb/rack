@@ -21,7 +21,6 @@ public class OngletAccueil extends JPanel {
 	
 	//test1
 	//test2
-	//test3
 
 	private static final long serialVersionUID = -4965499289693100757L;
 
