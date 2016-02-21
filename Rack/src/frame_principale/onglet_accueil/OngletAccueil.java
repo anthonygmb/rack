@@ -18,6 +18,8 @@ import frame_principale.Main;
 import methode.FocusTextField;
 
 public class OngletAccueil extends JPanel {
+	
+	/* ceci est un commentaire de test */
 
 	private static final long serialVersionUID = -4965499289693100757L;
 
