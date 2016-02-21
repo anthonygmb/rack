@@ -12,5 +12,6 @@ Le programme n'est pas terminé, il manque:
 - l'accès à la base de donnée
 - l'enregistrement des représentations dans un calendrier
 - la recherche d'entités via la barre de recherche de l'onglet accueil
+- les droits utilisateurs
 
 </> Anthony </>
